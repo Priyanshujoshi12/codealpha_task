@@ -1,0 +1,172 @@
+
+[
+  {
+    "id": 1,
+    "intent": "order_tracking",
+    "questions": [
+      "Where is my order?",
+      "How can I track my parcel?",
+      "Can I check my delivery status?",
+      "Track my order",
+      "I have not received my order",
+      "My order has not arrived"
+    ],
+    "answer": "You can track your order using the tracking link sent to your registered email. You can also check the order status in your account."
+  },
+  {
+    "id": 2,
+    "intent": "delivery_time",
+    "questions": [
+      "How long does delivery take?",
+      "When will my order arrive?",
+      "What is the delivery time?",
+      "How many days for shipping?"
+    ],
+    "answer": "Standard delivery usually takes 3–5 business days. Delivery time may vary depending on your location."
+  },
+  {
+    "id": 3,
+    "intent": "cancellation",
+    "questions": [
+      "How do I cancel my order?",
+      "Can I cancel my purchase?",
+      "I want to cancel my order",
+      "How to stop an order?"
+    ],
+    "answer": "You can cancel your order from the My Orders section before it is shipped."
+  },
+  {
+    "id": 4,
+    "intent": "refund",
+    "questions": [
+      "How can I get a refund?",
+      "When will I receive my refund?",
+      "I want my money back",
+      "What is your refund policy?",
+      "I need a refund",
+      "I want a refund"
+    ],
+    "answer": "Refunds are generally processed within 5–7 business days after the returned product is received and approved."
+  },
+  {
+    "id": 5,
+    "intent": "return",
+    "questions": [
+      "How can I return a product?",
+      "I want to return my order",
+      "What is your return policy?",
+      "Can I send back my product?"
+    ],
+    "answer": "You can request a return within 7 days of delivery, provided the product meets the return conditions."
+  },
+  {
+    "id": 6,
+    "intent": "payment_methods",
+    "questions": [
+      "What payment methods are accepted?",
+      "Can I pay using UPI?",
+      "Do you accept credit cards?",
+      "How can I pay for my order?"
+    ],
+    "answer": "We accept UPI, debit cards, credit cards and other available payment methods at checkout."
+  },
+  {
+    "id": 7,
+    "intent": "cod",
+    "questions": [
+      "Is cash on delivery available?",
+      "Can I pay after delivery?",
+      "Do you offer COD?",
+      "Can I pay in cash?"
+    ],
+    "answer": "Cash on Delivery is available for eligible delivery locations and products. Check availability during checkout."
+  },
+  {
+    "id": 8,
+    "intent": "damaged_product",
+    "questions": [
+      "My product arrived damaged",
+      "What if I receive a broken item?",
+      "I received a defective product",
+      "My order is damaged"
+    ],
+    "answer": "We are sorry for the inconvenience. Please contact customer support with your order details and product photographs."
+  },
+  {
+    "id": 9,
+    "intent": "wrong_product",
+    "questions": [
+      "I received the wrong product",
+      "This is not what I ordered",
+      "My package contains a different item",
+      "Wrong item delivered"
+    ],
+    "answer": "Please contact customer support with your order ID and a photograph of the received product so we can assist you."
+  },
+  {
+    "id": 10,
+    "intent": "account_creation",
+    "questions": [
+      "How do I create an account?",
+      "How can I register?",
+      "I want to sign up",
+      "How to join your website?"
+    ],
+    "answer": "Click the Sign Up button, enter your details and follow the registration instructions to create an account."
+  },
+  {
+    "id": 11,
+    "intent": "password_reset",
+    "questions": [
+      "I forgot my password",
+      "How can I reset my password?",
+      "I cannot log into my account",
+      "How to change my password?"
+    ],
+    "answer": "Use the Forgot Password option on the login page and follow the instructions to reset your password."
+  },
+  {
+    "id": 12,
+    "intent": "contact_support",
+    "questions": [
+      "How can I contact customer support?",
+      "I need help",
+      "How do I talk to an agent?",
+      "Where can I get assistance?"
+    ],
+    "answer": "You can contact our customer support team through the Contact Us section on our website."
+  },
+  {
+    "id": 13,
+    "intent": "discount",
+    "questions": [
+      "Do you offer discounts?",
+      "Are there any offers available?",
+      "How can I get a discount?",
+      "Do you have promotional codes?"
+    ],
+    "answer": "You can find current discounts and promotional offers on our website. Check the Offers section for available deals."
+  },
+  {
+    "id": 14,
+    "intent": "shipping_charges",
+    "questions": [
+      "Are there delivery charges?",
+      "Is shipping free?",
+      "How much does delivery cost?",
+      "What are the shipping fees?"
+    ],
+    "answer": "Shipping charges depend on your order value and delivery location. The applicable charges are displayed at checkout."
+  },
+  {
+    "id": 15,
+    "intent": "change_address",
+    "questions": [
+      "Can I change my delivery address?",
+      "I entered the wrong address",
+      "How do I update my shipping address?",
+      "Can I edit my delivery details?"
+    ],
+    "answer": "You may update your delivery address before the order is shipped by contacting customer support."
+  }
+]
